@@ -1,16 +1,41 @@
-# kalkulatorsederhana
+Halo! 👋 Ini adalah proyek kecil-kecilan berupa aplikasi kalkulator yang dibuat menggunakan Flutter.
+Tujuannya? Buat belajar, latihan, dan tentu saja... menghitung cepat tanpa ribet! 😄
 
-A new Flutter project.
+Fitur Utama
+Operasi dasar: ➕ Tambah, ➖ Kurang, ✖️ Kali, ➗ Bagi
+kalkulator bmi berdasarkan umur, tinggi dan berat badan
+Desain simpel, gampang dipakai
 
-## Getting Started
+Bisa jalan di banyak platform: Android, iOS, Web, Windows, macOS, dan Linux 🚀
 
-This project is a starting point for a Flutter application.
+Teknologi yang Dipakai
+-Flutter (pakai bahasa Dart)
+-Sedikit campuran platform spesifik: C++, CMake, Swift
+-Untuk Web: HTML
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Cara Install & Jalankan
+Pastikan kamu sudah install Flutter di komputer.
+-Clone repo ini:
+git clone https://github.com/pan8strong/kalkulator-sederhana.git
+cd kalkulator-sederhana
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Install semua package:
+flutter pub get
+
+Jalankan aplikasinya:
+flutter run
+
+-struktur Folder Singkat :
+lib/ → Tempat semua kode utama
+assets/ → Kalau ada gambar/icon
+test/ → Buat testing
+Platform folders (android/, ios/, web/, dll) → Settingan masing-masing platform
+
+Mau Ikut Kontribusi?
+Serius, kontribusi kamu bakal sangat dihargai!
+Caranya gampang:
+-Fork repo ini
+-Buat branch baru
+-Commit perubahanmu
+-Kirim Pull Request 🚀
